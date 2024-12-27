@@ -13,7 +13,7 @@ You must have Docker to run this application.
 ## **Installation**
 
 ```bash
-git clone git@github.com:NahuCF/task-app.git
+git clone https://github.com/NahuCF/task-app.git
 cd task-app
 composer install
 npm install
