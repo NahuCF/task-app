@@ -8,7 +8,7 @@ This is my solution to the challenge of the task manager in which have used the 
 
 ## Important
 
-You must have Docker to run this application.
+You must have Docker to run this application and PHP >= 8.2.
 
 ## **Installation**
 
